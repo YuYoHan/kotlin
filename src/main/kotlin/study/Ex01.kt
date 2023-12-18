@@ -1,3 +1,5 @@
+package study
+
 // 탑 레벨 함수
 const val number = 7
 

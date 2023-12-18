@@ -1,3 +1,5 @@
+package study
+
 fun main() {
     var a = 0
 
@@ -23,4 +25,6 @@ fun main() {
             println("i : $i, j : $j")
         }
     }
+
+
 }
